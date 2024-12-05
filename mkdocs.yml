@@ -6,7 +6,7 @@ nav:
         - Intro: intro.md
         - Adapters: adapters.md
     - "File Upload Handlers": upload.md
-site_name: laminas-progressbar
+site_name: laminas-progressbar (Abandoned)
 site_description: "Create and update progress bars in different environments"
 repo_url: 'https://github.com/laminas/laminas-progressbar'
 extra:
